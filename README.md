@@ -1,28 +1,59 @@
+
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Ammar%20Khumaini&fontSize=48&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20Developer&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Ammar Khumaini Header" />
+# Hi, I'm Ammar Khumaini 👋
 
-  <h1>Hi there, I'm Ammar Khumaini bin Mohd Taufiq 👋</h1>
+### First-Year Data Engineering Student at UTM
 
-  <p>
-    <b>Aspiring Software Engineer</b> • <b>Tech Enthusiast</b> • <b>Continuous Learner</b>
-  </p>
+<img src="/images/profile.png" alt="Ammar Khumaini" width="150" style="border-radius: 50%;" />
 
-  <p>
-    <a href="https://linkedin.com/in/ammarkhumaini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+*Learning, building, and exploring the world of data.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-```text
-├── 🎓 Background      : Currently pursuing studies in Computer Science / Software Engineering
-├── 💡 Interests       : Web Development, Software Design, & Cloud Technologies
-├── 🌱 Learning        : Mastering Data Structures, Modern Frameworks, and Version Control Systems
-├── 🎯 Goals           : Building impactful software solutions & contributing to Open Source
-└── ⚡ Fun Fact        : Passionate about problem-solving and turning ideas into clean code
+- 🎓 First-year **Data Engineering** student at Universiti Teknologi Malaysia (UTM).
+- 📊 Interested in data, technology, and problem-solving.
+- 🌱 Currently building my programming and technical skills.
+- 🚀 Exploring data engineering, databases, and software development.
+- 🎯 Goal: To become a skilled data engineer and build meaningful projects.
+
+---
+
+## 🛠️ Skills & Technologies
+
+*Currently learning and expanding my technical skills.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- Strengthening my programming fundamentals.
+- Learning database management and SQL.
+- Exploring data pipelines and data processing.
+- Working on my first technical projects.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- **Email:** YOUR_EMAIL@example.com
+
+---
+
+<div align="center">
+
+*“Small steps every day lead to great things.”*
+
+</div>
