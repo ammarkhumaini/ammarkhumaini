@@ -47,8 +47,9 @@
 
 ## 📫 Connect With Me
 
-- **GitHub:** [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **Email:** YOUR_EMAIL@example.com
+- **GitHub:** [ammarkhumaini](https://github.com/ammarkhumaini)
+- **Email:** ammarkhumaini@graduate.utm.my
+  
 
 ---
 
