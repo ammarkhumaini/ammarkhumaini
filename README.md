@@ -9,7 +9,7 @@
 
 *Learning, building, and exploring the world of data.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ammarkhumaini)
 
 </div>
 
@@ -36,6 +36,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ammarkhumaini&show_icons=true&theme=tokyonight&hide_border=true" alt="Ammar's GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarkhumaini&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ammarkhumaini&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
 ## 📌 Current Focus
 
 - Strengthening my programming fundamentals.
@@ -49,7 +67,6 @@
 
 - **GitHub:** [ammarkhumaini](https://github.com/ammarkhumaini)
 - **Email:** ammarkhumaini@graduate.utm.my
-  
 
 ---
 
